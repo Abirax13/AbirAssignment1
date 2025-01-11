@@ -188,6 +188,16 @@ h3{
     text-align: left;
     transition: box-shadow 0.3s ease;
 }
+#icon{
+    background-image: url("image/quote-bg.png");
+    background-position: top left;
+    background-repeat: no-repeat;
+    padding: 50px;
+    border-radius: 10px;
+    text-align: left;
+    border: 1px solid rgb(172, 170, 170);
+    margin-left: 40px;
+}
 #chief{
     font-size: 12px;
     color: #474747;
